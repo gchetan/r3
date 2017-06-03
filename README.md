@@ -8,9 +8,19 @@ Chetan, Pavan, Prabhav, Kashyap, Skanda, Udbhav
 
 ## Schedule
 
-### May 17, 2017: SEDA: An Architecture for Well-Conditioned, Scalable Internet Services (by Kashyap)
+### Jun 5, 2017: SEDA: An Architecture for Well-Conditioned, Scalable Internet Services (by Kashyap)
 Reference: [PDF](https://github.com/tpn/pdfs/blob/master/SEDA%20-%20An%20Architecture%20for%20Well-Conditioned,%20Scalable%20Internet%20Services%20(seda-sosp01).pdf)<br/>
 TODO(kashyap): Add summary.
+
+### May 29, 2017: Memorial Day!
+
+### May 3, 2017: Basic Economics: Elasticity and Policy Making (by Udbhav)
+Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X), [Udbhav's notes](https://drive.google.com/open?id=0ByfPhRmPL1voRVBPZXp5c2NKNU0)<br/>
+Udbhav talked about elasticity of the demand and supply curves and how they can be used to get quantitvae metrics about the market. We also see how elasticity can explain a lot of market trends and forces. Finally we do a review of how taxes affect the total output from a market and analyse how suppliers and consumers bear their burden.
+
+### Apr 26, 2017: Basic Economics: Supply and Demand (by Udbhav)
+Reference: [Principles of Economics by Mankiw](https://www.amazon.com/Principles-Economics-7th-Mankiws/dp/128516587X), [Udbhav's notes](https://drive.google.com/open?id=0ByfPhRmPL1voRVBPZXp5c2NKNU0)<br/>
+Udbhav talked about the demand and supply curves and how they develop from the individual supply and demands of millions of actors interacting in the market. We also see what factors affect these curves. 
 
 ### Apr 17, 2017: Hiking The Grand Canyon (by Skanda)
 Reference: [Dank PPT](https://drive.google.com/file/d/0B7zfGHX4UX7iRFZOU085VFRsLUk/view?usp=sharing)<br/>
